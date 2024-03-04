@@ -6,7 +6,6 @@ TECH used ->
 1. EJS
 
 2. Express and Node
-
 3.CSS
 
 It's a mini project that generates random names as we click on the button Generate name !!!! 
